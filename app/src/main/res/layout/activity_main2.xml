@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main2Activity">
+
+    <ScrollView
+        android:id="@+id/scrollView3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="324dp"
+                android:layout_height="41dp"
+                android:text="HOW TO USE ABOUT HAND SANITIZER"
+                android:textColor="@android:color/black"
+                tools:layout_editor_absoluteX="38dp"
+                tools:layout_editor_absoluteY="42dp" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="277dp"
+                android:text="@string/description_4"
+                tools:layout_editor_absoluteX="45dp"
+                tools:layout_editor_absoluteY="138dp" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="STEP1: Apply the sanitizer on the palms of hands and then rub the palms together."
+                tools:layout_editor_absoluteX="55dp"
+                tools:layout_editor_absoluteY="279dp" />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/step1"
+                tools:layout_editor_absoluteX="55dp"
+                tools:layout_editor_absoluteY="337dp" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n\n STEP2: Rub right palm over the upper side of left hand with interlaced fingers."
+                tools:layout_editor_absoluteX="55dp"
+                tools:layout_editor_absoluteY="600dp" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/step2"
+                tools:layout_editor_absoluteX="55dp"
+                tools:layout_editor_absoluteY="651dp" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n\n STEP3: Rub left palm over the upper side of right hand with interlaced fingers"
+                tools:layout_editor_absoluteX="55dp"
+                tools:layout_editor_absoluteY="600dp" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/step3"
+                tools:layout_editor_absoluteX="55dp"
+                tools:layout_editor_absoluteY="651dp" />
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n\n STEP4: Interlock fingers and rub the back of fingers."
+                tools:layout_editor_absoluteX="55dp"
+                tools:layout_editor_absoluteY="600dp" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/step4"
+                tools:layout_editor_absoluteX="55dp"
+                tools:layout_editor_absoluteY="651dp" />
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n\n STEP5: Rub the right thumb rotationally clasped in left palm and vice versa."
+                tools:layout_editor_absoluteX="55dp"
+                tools:layout_editor_absoluteY="600dp" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/step5"
+                tools:layout_editor_absoluteX="55dp"
+                tools:layout_editor_absoluteY="651dp" />
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n\n STEP6: Rub the finger tips and thumb of right hand in left palm rotationally and vice versa."
+                tools:layout_editor_absoluteX="55dp"
+                tools:layout_editor_absoluteY="600dp" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/step6"
+                tools:layout_editor_absoluteX="55dp"
+                tools:layout_editor_absoluteY="651dp" />
+
+
+
+
+
+         </LinearLayout>
+
+    </ScrollView>
+
+
+</android.support.constraint.ConstraintLayout>

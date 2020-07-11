@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Application demo 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "HOW TO USE ABOUT HAND SANITIZER\n\n"
+
+        "Hand sanitizers have become popular over the past several years."
+        "In addition to popularity, they are also an important component of a healthy lifestyle. "
+        "Infections are spread by germs and bacteria, and hand sanitizer can go a"
+        "long way in preventing the spread of germs.\n"
+        "Hand sanitizer is portable and convenient when soap and water are not available. "
+        "The Centers for Disease Control and Prevention recommends using Hand Antiseptic,"
+        "Hand Scrub and hand sanitizer when soap and water are not available."
+        "The most important ingredient in most hand sanitizers is a disinfecting alcohol"
+        "solution of 60 percent concentration or higher. The alcohol acts quickly and may "
+        "be combined with other active ingredients, to enhance the germ-fighting ability.\n\n"
+
+        "STEPS TO USE HAND-SANITIZER.\n\n"
+    </string>
+    <string name="description_1">Amazon.com is a leading online retailer of products that inform, educate, and inspire. The Amazon group also has stores in the Canada, Germany, France, Japan and United Kingdom. Because we exist "virtually" on the Web, we have unlimited shelf space and can offer a selection of over 17 million titles including over 13 million Book titles and over 1 million music titles. Compare that to a typical physical-world book superstore, which carries around 170,000 books, or a typical physical-world music superstore, which carries around 34,000 CDs.</string>
+    <string name="description_2">Titles have different availabilities simply due to their demand, proximity, and availability to Amazon.com. We also source our products from various distributors. The availability on products we obtain from distributors may vary according to whether the distributor has the product in stock or not.
+
+If a title is listed as out of stock or unavailable, it means that it is not currently available to Amazon.com or not in stock through our distribution channels. However, you may still be able to sell out of stock items through our Marketplace feature.</string>
+    <string name="description_3">We dont provide sales information to vendors at this time due to the competitive nature of our business. It is recommended that authors/artists/actors contact their publisher/label/studio, or publishers/labels/studios contact their distributors, for more information concerning the sales of their titles.</string>
+    <string name="description_4">"Hand sanitizers have become popular over the past several years."
+        "In addition to popularity, they are also an important component of a healthy lifestyle. "
+        "Infections are spread by germs and bacteria, and hand sanitizer can go a"
+        "long way in preventing the spread of germs.\n"
+        "Hand sanitizer is portable and convenient when soap and water are not available. "
+        "The Centers for Disease Control and Prevention recommends using Hand Antiseptic,"
+        "Hand Scrub and hand sanitizer when soap and water are not available."
+        "The most important ingredient in most hand sanitizers is a disinfecting alcohol"
+        "solution of 60 percent concentration or higher. The alcohol acts quickly and may "
+        "be combined with other active ingredients, to enhance the germ-fighting ability.\n\n"
+
+        "STEPS TO USE HAND-SANITIZER.\n\n"</string>
+    <string name="description_5">At Amazon.com, its up to you to make your titles stand out on our virtual shelves. You have the opportunity, using descriptive content and images, to personally hand-sell your titles to customers and persuade them to purchase. Following are the most important pieces of information you can add to your product detail page.</string>
+</resources>
